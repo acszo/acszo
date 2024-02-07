@@ -4,5 +4,5 @@
 
 <div align="center">
   <h3>Great Developer Onizuka</h3>
-  <img src="/GTO.gif" width="50%">
+  <img src="/GTO.gif" width="85%">
 </div>
